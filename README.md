@@ -6,7 +6,7 @@
 
 > Webpack의 개념과 활용방법에 대한 이해하기 프로젝트!
 
-🔎 **Github :** [github.com/jun-5/Bon-voyage](https://github.com/jun-5/Bon-voyage)
+🔎 **Github :** https://github.com/jun-5/WMN-Webpack-Moudule-Bundle-
 
 ### **Info**
 
